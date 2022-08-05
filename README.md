@@ -1,2 +1,2 @@
 # Hyperblog
-Ejercicio en Platzi del curso de Git y Github
+Este es un ejercicio que hice en Platzi para el curso de Git y Github
